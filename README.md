@@ -65,7 +65,9 @@ Requirements
 
 This project is intended to run on Linux / WSL.
 
-Recommended:
+---
+
+# Steps to run:
 
 Ubuntu on WSL2
 

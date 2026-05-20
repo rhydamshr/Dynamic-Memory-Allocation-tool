@@ -1,0 +1,10 @@
+"##############################################################
+# makefile.rules for memtrace.cpp (Pin tool)
+# Place this together with memtrace.cpp inside
+#   $PIN_ROOT/source/tools/MyPinTool/
+# Then build with:   make obj-intel64/memtrace.so TARGET=intel64
+##############################################################
+
+TEST_TOOL_ROOTS := memtrace
+TOOL_ROOTS      := memtrace
+"
