@@ -69,9 +69,9 @@ memtrace/     -> Intel Pin Pintool
 
 This project is intended to run on Linux / WSL.
 
----
 
-# Steps to run:
+
+## Steps to run:
 
 Ubuntu on WSL2
 
@@ -209,7 +209,9 @@ Python
 Instrumentation
 Intel Pin
 Custom C++ Pintool
-Notes
+
+## Notes
 Intended for Linux / WSL environments.
 Runtime/internal libc allocations may appear in reports.
 Double-free detection is heuristic-based.
+---
