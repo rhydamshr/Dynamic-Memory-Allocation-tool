@@ -61,7 +61,11 @@ Highlights:
 frontend/     -> React frontend
 backend/      -> FastAPI backend
 memtrace/     -> Intel Pin Pintool
-Requirements
+```
+
+---
+
+# Requirements
 
 This project is intended to run on Linux / WSL.
 
